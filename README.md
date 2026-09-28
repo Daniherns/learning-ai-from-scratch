@@ -15,8 +15,7 @@ Repositorio dedicado a documentar mi aprendizaje práctico en Ciencia de Datos, 
 ## 📂 Contenido
 
 ### 1. Fundamentos de Pandas
-* **01_series_and_dataframes.ipynb:** Creación de Series y DataFrames, inspección de tipos y accesos básicos.
-* **02_indexes_and_filtering.ipynb:** Indexación por etiquetas (`.loc`) vs posicional (`.iloc`), slicing y filtrado con máscaras booleanas.
+* **01_02_Sesion.ipynb:** Creación de Series y DataFrames, selección de filas y columnas.
 * *(En progreso)* 
 
 ---
