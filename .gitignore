@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Entornos virtuales y Python
+__pycache__/
+*.py[cod]
+venv/
+.env/
+
+# Datasets pesados (para no sobrecargar Git)
+*.csv
+*.zip
+*.json
