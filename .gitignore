@@ -231,3 +231,4 @@ venv/
 *.csv
 *.zip
 *.json
+data/
